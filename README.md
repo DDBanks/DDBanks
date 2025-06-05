@@ -72,5 +72,5 @@ To secure an entry-level IT Help Desk position where I can provide frontline tec
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/DDBanks/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
