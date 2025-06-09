@@ -67,7 +67,7 @@ To secure an entry-level IT Help Desk position where I can provide frontline tec
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/a373bb68-dda8-484b-be49-0efc77349bee/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.credly.com/badges/a373bb68-dda8-484b-be49-0efc77349bee/public_url"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 
 </div>
 
